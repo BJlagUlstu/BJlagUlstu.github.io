@@ -1,0 +1,69 @@
+    body {
+      background: url(../Image/dopBackground.png);
+      background-color: rgb(53, 48, 48);
+      opacity: 0.9;
+    }
+    
+    nav ul {
+      font-size: 30px;
+    }
+
+    .moreNews {
+      font-size: 38px;
+      color: #ed5011;
+      margin-top: 100px;
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    .row {
+      margin-bottom: 100px;
+    }
+
+    .myText {
+      color: black;
+      font-family: 'Montserrat', sans-serif;
+    }
+    
+    .container {
+      margin-top: 80px;
+    }
+    
+    .link {
+      color: white;
+      margin-right: 20px;
+      margin-left: 20px;
+    }
+    
+    .nav-link {
+      color: black;
+    }
+
+    .head {
+      margin-top: 100px;
+      font-size: 80px;
+      font-family: 'Bebas Neue', cursive;
+    }
+    
+    #footer-inner {
+      background-color: black;
+      text-align: center;
+      border: 0px;
+      font-size: 12px;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      padding-top: 5px;
+    }
+    
+    a.nav-link:link {
+      padding: 3px;
+    }
+    
+    a.nav-link:hover {
+      color: rgb(0, 84, 177) !important;
+    }
+    
+    a, p {
+      text-decoration: none !important;
+      color: white;
+    }

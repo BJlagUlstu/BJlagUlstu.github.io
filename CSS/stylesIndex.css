@@ -1,0 +1,132 @@
+    body {
+      background-image: url(../Image/mainBackground.jpg);
+      background-size: cover!important;
+      background-attachment: fixed!important;
+      opacity: 0.95;
+    }
+
+    .dopBackgroung {
+      background-color: rgba(53, 48, 48, 0.35);
+      height: 100%;
+    }
+     
+    ul li {
+      font-size: 25px;
+      display: inline-block;
+      margin: 5px 20px 0 20px;
+    }
+    
+    .link {
+      color: white;
+      margin-right: 20px;
+      margin-left: 20px;
+    }
+
+    .head {
+      font-size: 100px;
+      font-style: bold;
+      color: black;
+      font-family: 'Bebas Neue', cursive;
+      margin-bottom: -10px;
+    }
+    
+    .container {
+      position: relative;
+      background: rgb(53, 48, 48);
+      border-radius: 0.5em 0.5em 0 0;
+      height: auto;
+    }
+    
+    .separator {
+      font-size: 35px;
+      color: white !important;
+    }
+    
+    .card {
+      margin-bottom: 20px;
+    }
+    
+    .myText {
+      color: black;
+      font-family: 'Montserrat', sans-serif;
+    }
+    
+    .PM {
+      height: 80px;
+    }
+    
+    .news-link {
+      font-size: 25px;
+      color: #ed5011;
+      margin-left: 15px;
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+    
+    .button {
+      color: white !important;
+      text-decoration: none !important;
+      margin-left: 10px;
+      margin-right: 10px;
+      font-family: 'Oswald', sans-serif !important;
+      font-size: 30px;
+    }
+    
+    .buttons {
+      background: black;
+      margin-left: -15px;
+      height: 70px;
+      width: 1140px;
+      border-radius: 0.5em 0.5em 0 0;
+      margin-bottom: 15px;
+    }
+    
+    .lastNews {
+      color: #ed5011;
+      font-size: 38px;
+      margin-left: 15px;
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+    
+    a.nav-link:link {
+      padding: 3px;
+    }
+    
+    a.nav-link:hover {
+      color: rgb(0, 84, 177) !important;
+    }
+  
+    .card-group {
+      margin-top: 20px;
+    }
+    
+    .indent {
+      margin-bottom: 5px;
+    }
+    
+    #footer-inner {
+      background-color: black;
+      text-align: center;
+      font-size: 12px;
+      color: white;
+      position: absolute;
+      width: 100%;
+      padding-top: 5px;
+    }
+    
+    a {
+      text-decoration: none !important;
+      color: white;
+    }
+
+    p.emptiness {
+      color: white;
+      text-align: center;
+      font-style: bold;
+      font-size: 75px;
+      margin-top: 10px;
+    }
+
+    .logo {
+      display: block;
+      margin: 0 auto;
+    }

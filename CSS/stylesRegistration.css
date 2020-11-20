@@ -1,0 +1,49 @@
+    body {
+      background: url(../Image/dopBackground.png);
+      background-color: rgb(53, 48, 48);
+      opacity: 0.9;
+    }
+    
+    .col {
+      margin: 75px 0 auto auto;
+    }
+
+    .link {
+      color: white;
+      margin-right: 20px;
+      margin-left: 20px;
+    }
+
+    .form-group {
+      margin-bottom: 25px;
+    }
+
+    .head {
+      margin-top: 50px;
+      font-size: 80px;
+      font-family: 'Bebas Neue', cursive;
+    }
+
+    #footer-inner {
+      background-color: black;
+      text-align: center;
+      border: 0px;
+      font-size: 12px;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      padding-top: 5px;
+    }
+
+    a { 
+      text-decoration: none !important; 
+      color: white;
+    }
+
+    .logo {
+      margin: 25px 0;
+    } 
+
+    .form-control {
+      width: 500px;
+    }
