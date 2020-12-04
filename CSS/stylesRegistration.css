@@ -1,4 +1,4 @@
-    body {
+      body {
       background: url(../Image/dopBackground.png);
       background-color: rgb(53, 48, 48);
       opacity: 0.9;
@@ -46,4 +46,8 @@
 
     .form-control {
       width: 500px;
+    }
+
+    .btn-outline-light {
+      margin-left: 188px;
     }
