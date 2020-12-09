@@ -56,7 +56,7 @@ function complete() {
     if (checkEmptyField(login, name, passwordOne, passwordTwo)) {
         if (isValidEmailAddress(login)) {
             if (checkPassword(passwordOne, passwordTwo)) {
-                if (passwordOne.length < 2) {
+                if (passwordOne.length < 8) {
                     Swal.fire({
                         icon: 'warning',
                         title: 'Warning!',
