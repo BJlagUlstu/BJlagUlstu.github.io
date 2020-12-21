@@ -92,7 +92,6 @@ function complete() {
             text: 'Пожалуйста, заполните пустные поля'
         });
     }
-    event.preventDefault();
 }
 
 function isValidEmailAddress(emailAddress) {
